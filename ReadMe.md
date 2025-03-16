@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aitaneuh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aitaneuh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aitaneuh) 
@@ -9,4 +10,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Aitaneuh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitaneuh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake.svg" />
+</picture>
