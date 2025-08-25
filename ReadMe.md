@@ -9,9 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aitaneuh&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aitaneuh&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitaneuh&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aitaneuh/Aitaneuh/output/github-snake.svg" />
-</picture>
