@@ -10,5 +10,5 @@ I love coding, learning new tech, and dabbling in AI and data projects.
 - 🏃‍♂️ Enjoy running and staying active  
 
 I like keeping my projects fun and simple, and I'm always exploring new ideas.  
-Feel free to check out my repos and say hi! 😄
 
+Feel free to check out my ![mnist CNN webpage](https://aitaneuh-mnist-cnn.streamlit.app/) if you want to know a bit more what i do! 😄
