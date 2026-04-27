@@ -2,10 +2,10 @@
 
 # Hey there 👋
 
-I'm Ethan, a budding developer from Switzerland 🇨🇭.  
-I love coding, learning new tech, and dabbling in AI and data projects.  
+I'm Ethan, a junior developer from Switzerland 🇨🇭.  
+I love coding, learning new tech, and exploring in AI and data projects.  
 
-- 🖥️ Currently learning: Python, TypeScript, and AI stuff  
+- 🖥️ Currently learning: Python, C++, and AI stuff  
 - 🎮 Big fan of ice hockey and gaming  
 - 🏃‍♂️ Enjoy running and staying active  
 
